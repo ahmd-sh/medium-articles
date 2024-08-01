@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_tabler_icons/flutter_tabler_icons.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:project_name/services/place_service.dart';
+import 'package:my_flutter_project/services/place_service.dart';
 import 'package:uuid/uuid.dart';
 import 'package:project_name/utils/debouncer.dart';
 
